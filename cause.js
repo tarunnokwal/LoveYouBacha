@@ -83,7 +83,7 @@ function displayNewReason() {
                             opacity: 0,
                             duration: 1,
                             onComplete: () => {
-                                window.location.href = 'last.html'; // Replace with the actual URL of the next page
+                                window.location.href = 'US.html'; // Replace with the actual URL of the next page
                             }
                         });
                     });
